@@ -1,0 +1,8 @@
+Objective:
+After one team captures all of the control points the alarm will sound and the intelligence of the opposing team will be unlocked. You then have 5 minutes to capture the intelligence. The drop of point is located in front of the gate of your own intelligence.
+
+Other Notes:
+When all the contol points are captured they will be locked.
+
+Author:
+Tycho terryn (aka Yo_Neo) http://tycho.terryn.be

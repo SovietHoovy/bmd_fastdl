@@ -1,0 +1,5 @@
+Objective:
+To win a point, take the enemy's intelligence briefcase in your base into the enemy's base.
+
+Other Notes:
+Players drop the intelligence when they die. Dropped intelligence returns to its Base after 60 seconds.

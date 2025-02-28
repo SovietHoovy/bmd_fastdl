@@ -1,0 +1,37 @@
+CTF_AesopRock   
+
+[ B E T A  7 ]
+
+By Vegit0r
+[Vegit0r@hotmail.com]
+
+Objective:
+Grab the intel in the enemy's warden office, and take it to THEIR gas chamber to score!
+Each time the intel is captured everyone has to get to an airlock, the water, or the warden's
+office to survive the gas.
+
+--Note: Map plays best with simple HUD disabled--
+
+BETA 7 FIXES - 
+-Gas works with custom sprite
+-Airlocks work 
+-Some hallways expanded
+-Added lighting
+-Fixed other small visual issues
+
+
+Thanks to:
+Dirtyminuth
+[P]Q of http://www.clanpact.org
+TF2maps.net
+Somethingawful.com
+Smitz
+Tobias Greenich
+Team Fortress 2 Mappers (Steam Group)
+Interlopers.net
+
+
+
+
+
+

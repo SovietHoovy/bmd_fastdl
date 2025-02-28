@@ -1,0 +1,49 @@
+Geothermal - ctf_geothermal_b2
+
+======================================================
+
+MAP Info -
+
+Title: ctf_geothermal_b2
+Version: Beta 2.0
+Filename: ctf_geothermal_b2.bsp
+Created By: Jon Ridehalgh - [RL]Paria
+Author Email: zen112880@zen.co.uk
+Steam Contact: http://steamcommunity.com/profiles/76561197971006146
+Compile Date: 26/03/2008
+======================================================
+Beta 2.0 Changelist
+Fixed various nodraw surfaces being visible
+Improved spawn rooms to make it easier to distinguish on which level you have spawned on.
+Added Playerclips to Blue spawn and numerous other areas
+Fixed engineers being able to build in some areas of the spawn rooms
+Fixed Intel getting stuck in various areas
+Toned Down ambient sounds in most areas
+Added smoothing groups to certain areas
+Added Basic 3d Skybox
+Added 1 new route for attackers/defenders - right of the upper spawn exit.
+Added more detail and colour to the main section
+Increased Lighting and ambient lighting and reduced the fog effect for better visibility
+
+
+
+======================================================
+DEVELOPMENT:
+
+Program: Hammer/Photoshop
+Known Bugs: None
+Compile Time: 28 minutes
+HDR: Yes
+======================================================
+
+INSTALLATION:
+
+Extract the zip file to
+...Steam/steamapps/"Your Steam ID"/team fortress 2/tf/maps
+
+======================================================
+
+Thanks to:
+All of the Renegade Legion TF2 Community for helping me test the map
+http://tf2maps.net for all their help and assistance,
+feedback from players from Beta 1

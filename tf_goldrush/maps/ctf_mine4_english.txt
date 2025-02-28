@@ -1,0 +1,14 @@
+Objective:
+
+Nuke the Enemy by stealing their Intelligence Briefcase from their Capture Zone and securing it in your Capture Zone.
+
+
+Other Notes:
+
+Players drop the Intelligence when they die. Dropped Intelligence will NOT return to its Base.
+
+By capturing the Enemy's Intelligence a Self-Destruct Mechanism will activate. Only the CAPTURING TEAM's Capture Zone and Control Room are Safezones.
+
+There are Three Ways to get to the Enemy's Base: Over the Bridge. Over the Cliffs. Through the Water.
+
+Rounds will restart after a Team captures the Intelligence.

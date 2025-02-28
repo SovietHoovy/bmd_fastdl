@@ -1,0 +1,30 @@
+MAP INFORMATION:
+
+Title: sniperz_medieval_][
+Version: Final
+Filename: sniperz_medieval_][.bsp
+Created By: Allan "Houdini" Taylor
+Author Email: chump_86_2001@yahoo.com
+Type: Snipers Only
+Compile Date: 01/06/2008
+
+======================================================
+
+DESCRIPTION:
+
+I originally made the castles for a CP map but the map did not turn over so well with the community, So instead of
+wasting all the work I put into the casltes I thought it would turn out to be a good sniper map. It has turned 
+out very well for being sniper only. I know this map is large but it is good for large servers. Hope you enjoy
+======================================================
+
+DEVELOPMENT: 
+
+Program: Hammer
+Known Bugs: None
+Compile Time: 10 min on default settings
+
+======================================================
+
+THANKS TO:
+
+-(TM) clan for hosting my maps and helping me test along with all the players on their servers

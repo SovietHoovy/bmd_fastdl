@@ -1,0 +1,34 @@
+MAP INFORMATION:
+
+Title: sniperz_ridge
+Version: Final
+Filename: sniperz_ridge.bsp
+Created By: Allan "Houdini" Taylor
+Author Email: chump_86_2001@yahoo.com
+Type: Snipers Only
+Compile Date: 01/05/2008
+
+======================================================
+
+DESCRIPTION:
+
+Basically two sniper bases red and blue each with there own theme. I built this map for snipers only and made it so
+the players on each team couldn't get to eachother. Also I designed the map the way I did because I like a sniper 
+map with lots of different places to snipe from instead of the standard sniperwar style sniper map.The cool thing 
+about the map is I managed to get Sudden Death to work, which turned out to be a good addition to the map. I hope 
+you enjoy sniperz_ridge as much as I have with building it and testing.
+======================================================
+FIXES:
+
+-The map is now sniper only you can choose other classes but it forces you to be sniper now.
+======================================================
+DEVELOPMENT: 
+
+Program: Hammer
+Known Bugs: None
+Compile Time: bout 11.5 min on HDR Full(-Final) compile
+
+======================================================
+
+
+

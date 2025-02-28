@@ -1,0 +1,17 @@
+-> Pour faire marquer votre equipe, faites un essai ou ou drop dans le camp adverse!
+
+/!\ Attention /!\
+ 
+- les equipes doivent logiquement marquer dans le camp adverse
+- fin de partie apres 40 rounds ou 20 wins
+- session de 25mn maximum
+- suite a une capture, l'intelligence reapparait apres 25s
+- le champ de force central est retabli pour 25s tous les 5 wins
+- un forcerespawn général intervient apres 10 rounds
+- apres possession, la malette reste verrouillee sur l'equipe pendant quelques dizaines de secondes avant de redevenir neutre
+- si le porteur passe derriere la ligne de touche, la malette tombe
+- le champ de force et les vitres stoppent les tirs
+
+-=CPC Mapping Team=-
+
+Commentaires et suggestions sur le forum http://forum.canardplus.com

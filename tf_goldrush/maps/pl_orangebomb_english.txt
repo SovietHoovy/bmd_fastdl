@@ -1,0 +1,7 @@
+Map created entirly by NekoBaron
+02nd may 2008
+
+Installing the map:
+Just copy pl_orangebomb.bps to your TF2 maps folder.
+
+This map comes with the source vmf for anyone else trying to create a Payload map and is also used in the valve wiki tutorial I also started http://developer.valvesoftware.com/wiki/TF2/Creating_a_Payload_Map, if you use part of the map/learn anything from it please give credit where apropriate.

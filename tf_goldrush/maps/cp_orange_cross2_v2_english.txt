@@ -1,0 +1,14 @@
+ORANGE CROSS 2: VERSION 2 (FINAL)
+------------------------------------------------
+
+Objective:
+Capture all the 5 control points to win the round.
+15 minutes round timer and 3 minutes added for the 3rd and 4th flags.
+
+Other Notes:
+Control Points can't be captured still the previous one is not owned by the team. So, start by following the arrows... 
+
+Credits:
+Map designed by Varadero (jan08)
+Palm tree by Mohax
+Thanks to www.tf2maps.net, www.teamfortress2.fr and www.mapping-area.com members. 

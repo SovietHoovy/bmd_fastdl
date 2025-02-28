@@ -1,0 +1,10 @@
+Panda Jump BETA 3
+by curbee
+
+King of the flag gametype
+Remake of Axl's Axlfly for TFC. Use the ramps to launch yourself towards the battlements or towards the hill with the intel. Hold the intel (which leaves a glow trail behind you) to win. Dropped intel returns after 3 seconds so pick it up fast when it is dropped!
+
+BETA 2c/3 - I HATE TEXTURES. WORK DAMMIT!
+BETA 2.1 - Cubemaps (hopefully) fixed.
+BETA 2 - Gametype changed to King of the Flag
+BETA 1 - Initial release

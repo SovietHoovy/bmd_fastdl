@@ -1,0 +1,23 @@
+Map created entirly by NekoBaron (AKA Neko_Baron)
+30th June 2008
+
+Installing the map:
+Just copy pl_KeepItAway_Beta_2-12.bps to your TF2 maps folder.
+
+One of my first real attempts at trying to create a playable map, during my time creating the payload tutorial on the wiki I started thinking of if it was possible to make a sort of tug of war games play with the payload watcher for the HUD. Though on retrospect it could have been made without the payload game play, just wouldn't have felt right without the cart progress (though it has caused some problems).
+
+Playing the map:
+Push the bomb to the enemy base, keep it away from your own! x4 capping is the fastest the train will go.
+When the bomb reaches the destination, TAKE COVER! The explosion will hurt.
+There is an 10 minuets time limit to prevent the map getting stuck in a stalemate.
+
+Changes:
+Adjusted the lighting
+Added a bridge tunnel to each side for an extra exit form the middle houses
+Adusted items
+Added then deleted 3d skybox (its just pointless on this map)
+Changed time limit to 10 mins and a slight increase in spawn time (may be too long for low players)
+Added MOAR detail to the map
+
+Problems:
+This is the 2nd beta

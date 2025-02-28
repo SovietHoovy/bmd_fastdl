@@ -1,0 +1,51 @@
+CTF_Process_b1
+
+By Mr.Bee
+
+- - - - - - - - - - - - - - - - - - - -  
+
+BETA 1
+
+My first TF2 map
+2fort type layout with capture the intel
+
+- - - - - - - - - - - - - - - - - - - - 
+
+
+=====================================================================
+   Half-Life 2 Map Spec Sheet
+=====================================================================
+------General Information--------------------------------------------
+
+Title		: CTF_Process_b1
+Filename	: CTF_Process_b1.BSP
+Author		: Stuart Bee [A&I]Mr.Bee
+Home page	: http://homepages.nildram.co.uk/~mrstubee
+E-mail		: mrstubee@gotadsl.co.uk
+Description	: 2fort type layout with capture the intel
+Previous TFCMaps: quadcapture, drugbaron , flagcontrol 1+2 and 3,  
+                  deliverance11+2, charge_r, TheHole, firefortress, 4fought, ukfootie
+
+------Credits and Thanks---------------------------------------------
+
+FPSBanana website
+
+------Construction---------------------------------------------------
+
+Base		: NONE
+Editor(s) used	: Hammer
+Compile time	: roughly 3 hours
+
+------Copyright-Permissions------------------------------------------
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+
+

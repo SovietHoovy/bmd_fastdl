@@ -1,0 +1,17 @@
+-> Play like Tic Tac Toe !
+
+/!\ Attention /!\
+
+-5 CP are crossed on the vertical middle plane.
+-Capture one of the two diagonals (AEC OR BED) to win.
+-In spawnrooms, there is a buildable zone.
+-Time to capture: 20s and 40s for E. 
+-There is some traps !
+-Instant respawn.
+-Timer length: 15mn.
+-27 rooms, 108 doors, 2 elevators.
+-The entire cube is locked out for 7s with a random delay from 30s to 5mn.
+
+-=CPC Mapping Team=-
+
+Commentaires et suggestions sur le forum http://forum.canardplus.com
