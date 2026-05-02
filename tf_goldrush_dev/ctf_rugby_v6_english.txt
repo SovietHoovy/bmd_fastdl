@@ -1,0 +1,17 @@
+-> When you score a try or a drop in the opponents's area, your team is the only one scoring
+
+/!\ Attention /!\
+
+- team have to score on the opposite side
+- the game ends after 40 rounds or 20 wins
+- session length: 25 mn maximum
+- the intel respawns 25s after a capture
+- the middle force shield comes back every 5 wins for 25s 
+- a general forcerespawn occurs every 10 points
+- once a team drops the intel, it stays locked under its possession for 10s before becoming neutral again
+- if the carrier crosses the sidelines, the intel falls
+- force shield and glasses cannot be shot through
+
+-=CPC Mapping Team=-
+
+Any suggestions or commentaries on the french forum http://forum.canardplus.com

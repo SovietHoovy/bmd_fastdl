@@ -1,0 +1,86 @@
+======================================================
+
+MAP INFORMATION-
+
+Title:                 ctf_Bunkercanyon_v4
+Version:               3
+Filename:              ctf_Bunkercanyon_v4.bsp
+Created By:            Andrew Farrar - Thief_3_Wannabe
+Author Email:          redwampa@aol.com
+Type:                  CTF
+Web:                   none
+Compile Date:          12/23/2007
+Development Cycle:     Version 1.0 -> Version 2.0 -> Version 3.0 -> Version 4.0
+
+======================================================
+
+Change log:
+
+Version 4.0
+- Added more detail to bases
+- Added one red infiltrator "robot" to blue side
+- Added ramps to middle sewer area
+- Added some detail to sewers and above ground
+- Moved capture points to middle of map on bridge to reduce travel time
+- Removed all barriers from sewers
+- Removed two "robots" due to new geometry and plane limitations
+- Simplified security system to audio only to prevent game pause
+- Simplication of geometry in effect to stop MAX_PLANES error, will change geometry as needed (stairs to ramps for example)
+
+Version 3.0
+-Removed most of barriers from sewers
+-Removed bridge railings in sewers for easier navigation
+-Added more signs in sewers and above ground to help with direction
+-Added more props, sounds, and textures
+-Added a few worker "robots"
+-Added another structure to middle of map to give players more variety
+-Added health and ammo to "dead ends" (only 2 dead ends per side/ 1 in sewer and 1 in intel)
+-Closed off upper floor in spawn rooms
+-Made vents more roomier
+-Smoothed out stairs from clipping
+
+Version 2.0
+-Fixed spawn room exploit that allowed other team to hold flag behind spawn room door
+-Fixed cliff faces to avoid "floating" players
+-Added more cover to prevent sniper class from dominating map
+-Added more detail, models and textures
+-Added side corridor to intel room
+-Added a few more features to help players navigate map and identify location
+-Removed "sticky" texture from sewers to help with navigation
+-Removed blue side sniper advantage from bunker
+-Removed red rag doll due to physic error
+-Removed a few barriers in sewers
+-Terrain is now more "Dustbowl" like
+-Expanded security system features and limited triggers to prevent overlap
+-Smoothed out ground to minimize clipping with terrain
+
+======================================================
+
+DEVELOPMENT: 
+
+Program:               Hammer
+Known Bugs:            None
+HDR:                   Yes
+Compile PC:            Intel(R) Core(TM)2 Quad CPU @2.40GHz
+
+======================================================
+
+THANKS TO:
+
+Feedback:              AI_Chicky
+Textures:              Team Fortress 2
+
+======================================================
+
+INSTALLATION: 
+
+Extract the zip file to 
+...Steam/steamapps/$$Your Steam ID$$/team fortress 2/tf/maps
+
+Create a server with ctf_bunkercanyon_v4
+
+======================================================
+©2007 Andrew Farrar.
+All Rights Reserved
+
+Team Fortress 2 is a registered trademark of Valve Software.

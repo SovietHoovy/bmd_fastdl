@@ -1,0 +1,16 @@
+Objetivo:
+Cada ronda se juega al mejor de tres puntos.
+Para ganar un punto, debes de coger la Maleta con Documentos del Enemigo y entregarla en el punto de Control de tu Base.
+El Tiempo de partida es de 10 minutos. Si pasado ese tiempo no ha ganado ningun Equipo se decidira la victoria de la Ronda mediante Muerte Subita.
+
+Otras Notas:
+Los jugadores, sueltan la Maleta con Documentos al morir. La Maleta con Documentos abandonada, regresara automaticamente a su base despues de 60 segundos.
+
+Nota del Autor:
+Este mapa es un REMAKE del conocidisimo OPENFIRE_L del Team Fortress Classic.
+Se han respetado escrupulosamente el diseño, tamaño y trazados originales del mismo.
+Las horas dedicadas a la elaboracion de este mapa van dedicadas a los amantes de este juego, a todos los miembros de La Comunidad FHF, (... y a mi esposa por su gran paciencia.)
+
+¡ Que lo disfruteis !
+
+-=FHF|Cap|Picaron=-

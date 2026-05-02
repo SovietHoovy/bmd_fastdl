@@ -1,0 +1,9 @@
+Objective:
+Take the intel from YOUR BASE and rush it over to the enemy base. Put it on their podium to score.
+
+Other stuff:
+-Press L (default) to drop the intelligence.
+-You can capture intelligence even without having yours secured.
+-Each base has one full ammo crate, one medium health kit, and a hidden full health kit.
+
+Map by strangemodul3.

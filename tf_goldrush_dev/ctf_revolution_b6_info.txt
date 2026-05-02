@@ -1,0 +1,90 @@
+CTF_REVOLUTION Beta 6
+(ctf_revolution_b6)
+
+Gametype:	Capture the Flag
+Players:	24-32
+Author:		Mark "Shmitz" Major
+E-mail:		shmitz@gmail.com
+Version:	0.6.0 (beta)
+
+___________________________________
+Revision History
+
+BETA 6
+*  Changed name from ctf_wall to ctf_revolution
+*  Added a trash chute near the intelligence to
+   allow the option of a quicker exit from the 
+   base building. Soldiers and demomen also can 
+   potentially enter through this chute.
+*  Increased the speed of spawn doors, and tweaked
+   them so they wouldn't get stuck.
+*  Clipped a few more things that players could get
+   stuck on.
+*  Added/tweaked a few more bits of detail.
+*  Added a couple more health kits.
+
+BETA 5
+*  Removed street path and blocked off wall lobby.
+   There are now only two ways to get through the
+   wall: the upper bridge path or the hole.
+*  Restructured the inside of the lower spawn
+   building. Removed the stairs that were there.
+   Now the second exit doesn't go off to the side,
+   but up to the sniper roost and to a bridge that
+   allows quick access to the upper path.
+
+BETA 4
+*  FIXED: Map now will correctly end when the
+   server map timer expires.
+*  Removed main base "battlements". Widened and
+   detailed the back hall behind the intelligence 
+   room.
+*  The middle entrance that previously led down to
+   the basement now instead leads up to the top
+   floor hallway.
+*  Adjusted a number of areas to remove falling
+   damage from stepping off a ledge.
+*  More detailing.
+
+BETA 3
+*  Completely moved one of the spawn rooms to 
+   the buildings closest to the street. They 
+   exit both to the same alley as before (just 
+   from the opposite side) and into the lower 
+   chamber of the base. This makes the street 
+   path a lot more viable, makes the intelligence 
+   room a little less defendable, and makes the 
+   upper path less an exit and more an entrance.
+*  Added lane dividing columns in the street 
+   tunnel, and added a shortcut for 
+   scouts/demomen/soldiers.
+*  The ups and downs of the wall inside area 
+   are now a lot more straightforward.
+*  Added Buckets O' Detail.
+*  Added skybox.
+*  Clipped off just about everything to prevent 
+   a) getting stuck and b) demomen/soldiers from 
+   getting to off-limits areas. Please let me 
+   know if you find anything that still needs to 
+   be clipped.
+
+BETA 2
+*  Tightened up the streets and a few 
+   other spaces.
+*  Reduced some of the path interconnections. 
+   The presence of too many options was 
+   contributing to lack of team cohesion for
+   uncoordinated teams (most public servers).
+   Removing a few of the ways to jump from one
+   path to another will focus players a bit
+   more and encourage teamwork.
+*  Added more signs and indicators.
+*  Moved street entrance to the side and up a
+   level, making the street path more attractive.
+*  Added some more detail work, though I'm 
+   holding off on most of the finer details 
+   until after the layout is finalized.
+*  Other miscellaneous tweaks and optimizations.
+
+BETA 1
+First public release. 

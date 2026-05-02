@@ -1,0 +1,5 @@
+Welcome to CTF_faceoff Beta 02!
+
+Objectives: The objective is to capture the intelligence from the enemy, then delivering it to your own base. 
+
+Creator: [TT]Fezz, feedback and help from [TT]Possie and [TT]Neos

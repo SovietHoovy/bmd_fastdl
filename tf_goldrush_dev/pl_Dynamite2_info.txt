@@ -1,0 +1,107 @@
+Map Name: pl_Dynamite
+Game: Team Fortress 2
+Map Type: Payload
+Author: lillbrorsan
+
+------------------------
+Installation Instructions
+------------------------
+Extract the .rar files and place pl_Dynamite.bsp into your TF2 maps folder.
+
+------------
+Introduction
+------------
+This is my old map es_Dynamite with updated entity work.
+
+The first version i released was based off a new kind of gameplay i came up with which Valve soon followed on with Goldrush.
+
+This new version has updates to it, the biggest and noticable one is the new Payload system which Goldrush uses.
+
+Remember to check my thread at: http://forums.steampowered.com/forums/showthread.php?t=648495
+Please write in my thread if you have any suggestions or bug reports!
+
+-----------
+Change Log
+-----------
+
+
+V1
+Release
+
+-Fixed spawn problem
+
+-Made a second story for Blu base
+
+-Made so Blu can win :D
+
+-Added nogrenades
+
+-Finished displacements work in the Red base
+
+
+
+V2
+-Fixed so the team switches after a completed round
+
+-Added more light into the Red Base
+
+-Added a indicator for the cart
+
+
+
+V3
+-Fixed a bug with the cart
+
+-Added some more clip brushes to the left path
+
+-Made an opening on the top floor of the right path for Blu team
+
+-Made an opening on the left path for Blu team
+
+-Some other stuff :D
+
+
+
+V4
+-Changed the old cart system to Payload
+
+-Fixed spawnbug
+
+-Fixed another spawnbug! O.o
+
+-Fixed various other small bugs
+
+-Changed the map so it always starts with Path A (to make things less complicated)
+
+-Added a complete path_track system for Path A (since team_train_watcher doesn't seem to handle Branch Paths well...)
+
+-Remade the end part of the RED base to make it more good looking (plus the button system aint needed anymore) also two new spawn exits for RED
+
+
+
+V5
+-Fixed getting stuck ontop of the cart
+
+-Removed the obstacle on each path
+
+-Removed Health/Ammo pickup outside Red spawn
+
+-Added two new paths into the Red base to help Blu on the last CP
+
+-Removed the two closest spawnexits for Red in Red Base, only the two in the back are used now
+
+-Added a staircase to the back right spawn so Red can run back in to refill Health/Ammo
+
+-Really fixed the spawnbug now (old output from an entity causing this)
+
+-Fixed the damn alarm warning sound on the last CP spamming and then continue playing on a new round
+
+
+Known Bugs:
+-Have to go close to the cart two times when it starts on second path to get it to move (more like for safety)
+
+-When you are reaching the last CP on first round the voice over doesn't say "reaching last cp"
+
+-When the cart reaches the last CP on first round it turns it 180 degrees (because of it resetting the train and teleporting it to round 2 start position)
+
+-Cart instantly teleports on the last CP on the last round (know how to fix but its over 3 am atm so will fix later)

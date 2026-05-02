@@ -1,0 +1,28 @@
+Welcome to Starship Beta 3
+
+Author: Caffeine
+
+Objective: Capture the enemy home point
+
+Map Guide:
+
+- The enemy home point is open when you own TWO OF THREE points.
+- Points will automatically lock for a 45 second grace period after capture.
+- You do not need all points in order to achieve victory
+- The optional exclimation point gives a bonus to respawn and forward spawns
+- Holding the ! point and A or C will activate the forward spawns
+
+Keys To Remember:
+
+- Defend the home point at all times, momentum can shift quickly.
+- Always have at least 1 engineer.
+- Use offensive engineers to lock down points.
+- You DO NOT NEED ALL POINTS to win the map
+
+
+
+Recommended Players: 24+
+
+
+Feedback: http://brbuninstalling.com/forums/
+Contact: http://steamcommunity.com/id/CaffeinePowered

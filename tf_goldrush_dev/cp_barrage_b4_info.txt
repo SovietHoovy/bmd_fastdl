@@ -1,0 +1,89 @@
+Readme File:
+===================================================
+
+Title   : cp_barrage
+Released: 01/05/2008 
+Version : Beta 4 (released 1/16/07) 
+Filename: cp_barrage_b4.zip (Contains: cp_barrage_b4.bsp/.txt)
+Author  : Kent Williams
+Email   : cssmaps@aol.com
+
+===================================================
+
+Dedication
+
+      This map is dedicated to the following clans:
+                         3rd Oct
+                          I AM 
+
+
+===================================================
+
+Update
+
+[01/15/08] BETA 4: Yes, I skipped "beta 3."  Whatever.  This warrents
+           the number jump, as I see it close to if not final already.
+           However, I leave it under "beta" title for further gameplay
+           testing.  
+           Most important fixes include:
+           - Set the gametimer to fit the map.
+           - Framerate issues fixed for all (even high resolution).
+           - Added sniper perch.
+           - PLAY ME AND SEE!
+
+[01/09/08] BETA 2: (Ver. 3) Recompiled to fix portal--lag issues for
+           high resolutions.
+
+[01/08/08] BETA 2:  Most importantantly, I fixed the framerate errors,
+           and gameplay problems.
+           
+           This should actually be the first beta release.
+           It contains most of all the suggestions:  Either fix
+           the pyramid and let me run up it; limit snipers; more
+           shelters; make the last CP more worthwhile; etc.etc.
+
+
+[01/05/08] BETA 1: This is the first public release, and is a rough beta.
+
+===================================================
+
+Description
+
+I'm a TF2 Capture Point map, which is set in an "arena ball" or
+"speed ball" atmosphere.  This is meant to be an constant "push" for points
+by both teams.  Who needs defense?!  I don't need no stinkin' defense!
+
+=================================================== 
+
+Installation 
+
+1. Extract the .bsp file to your Team Fortress 2 map directory.
+
+===================================================
+
+Credits 
+
+Thanks to 3rd Oct and IAM clan servers for allowing me to beta test
+on them!
+
+===================================================
+
+Permissions
+
+All original and composed textures or assets in this level 
+remain property of their sources / respective owners. You MAY distribute this 
+ZIP in any not-for-profit electronic format (BBS, Internet, CD, etcetera) as 
+long as you contact me first, and include all files, including this readme, 
+intact in the original archive, simply for documenting its use.
+
+=================================================== 
+
+Warning - Must Read and Understand Before Use
+
+The author of this file accepts no responsibility for damage to data, or 
+physical damage to hardware, caused by the appropriate or inappropriate use 
+of this file. It is deemed that users whom run this file, automatically are 
+considered as having read and understood this liability clause before using 
+said file.
+
+=================================================== 

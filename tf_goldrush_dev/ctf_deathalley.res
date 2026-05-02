@@ -1,0 +1,18 @@
+"resources"
+{
+"materials/dasmatze/BlendDirtground001toCanyon.vmt" "file"
+"materials/dasmatze/BluElevatorUsageGuide.vmt" "file"
+"materials/dasmatze/BluElevatorUsageGuide.vtf" "file"
+"materials/dasmatze/BluMetalRoof.vmt" "file"
+"materials/dasmatze/BluMetalRoof.vtf" "file"
+"materials/dasmatze/Door01.vmt" "file"
+"materials/dasmatze/Door01.vtf" "file"
+"materials/dasmatze/Door02.vmt" "file"
+"materials/dasmatze/Door02.vtf" "file"
+"materials/dasmatze/DrowningSign.vmt" "file"
+"materials/dasmatze/DrowningSign.vtf" "file"
+"materials/dasmatze/MapByDasMatze.vmt" "file"
+"materials/dasmatze/MapByDasMatze.vtf" "file"
+"materials/dasmatze/RedElevatorUsageGuide.vmt" "file"
+"materials/dasmatze/RedElevatorUsageGuide.vtf" "file"
+}

@@ -1,0 +1,18 @@
+-> Jouez comme au morpion !
+
+/!\ Attention /!\
+
+-5 CP sont croisés sur le plan vertical median.
+-Capturez une des deux diagonales (AEC OU BED) pour marquer.
+-Dans les spawns, une zone constructible est réservée.
+-Temps de capture: 20s et 40s pour E. 
+-Attention aux pieges !
+-Instant respawn.
+-Partie de 15mn max.
+-27 salles, 108 portes, 2 ascenseurs.
+-Le cube entier est verrouille pendant 7s avec un delai
+ aleatoire de 30s à 5mn.
+
+-=CPC Mapping Team=-
+
+Commentaires et suggestions sur le forum http://forum.canardplus.com

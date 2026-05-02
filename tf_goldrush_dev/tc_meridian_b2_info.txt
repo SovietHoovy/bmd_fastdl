@@ -1,0 +1,170 @@
+TC_MERIDIAN BETA 2
+(tc_meridian_b2)
+
+Gametype:	Territory Control
+Players:	24-32
+Author:		Mark "Shmitz" Major
+Contributors:	Scott "Buddikaman" Petty
+		Pat "MangyCarface" Mulholland
+		Steve "Scoobings" Post
+E-mail:		shmitz@gmail.com
+Version:	0.2.0
+
+___________________________________
+Revision History
+
+BETA 2
+* Fixed "ghost" control point in sub bay.
+* Fixed being able to get stuck in upper temple
+  during the temple / sub bay round.
+* Reworked the temple / sub bay round for better
+  gameplay and hopefully it will see fewer stalemates
+  and a more balanced win ratio.
+* Reworked village / sub bay round. Action in the middle
+  area should be less divided and more friendly to fire
+  from snipers, soldiers, heavies, etc.
+* Added more signs to provide player direction and to make
+  death areas more apparent.
+* Added a shark to the water by the boat.
+* Fixed strange reflections in water.
+* Improved clipping.
+* Fixed players getting stuck in trick-door in village if
+  they attempted to block it.
+* Fixed decontamination spray in volcano / temple round.
+  It had been getting turned on during the wrong round.
+* Improved visibility in outside areas, so players should
+  render fewer objects not in view.
+* Added overtime. If any flag is not at home when the timer
+  hits zero, 60 seconds of bonus time is added. However, if
+  all flags get returned to home during this time, the round
+  automatically ends.
+
+
+BETA 1
+* Added another path into village during
+  volcano/village round.
+* Reworked the layout inside the temple area.
+* Fixed bugs involved with players crossing a few
+  prop-based bridges and ramps.
+* Fixed clipping on bridges across ravine.
+* Deepened pool under waterfall to support players
+  attempting to put out flames.
+* Increased setup times. Normal rounds are 30 seconds,
+  while defense rounds are 60 seconds.
+* Added more health and ammo.
+* Added proper collision to robot deck and hoses.
+* Made robot deck a more sentry-friendly location.
+* Added more direction signs.
+
+
+ALPHA 4
+* First major detailing pass.
+* Added alternate route off floor level of volcano area.
+* Removed access to most village roof areas.
+* Added stairs up to the second catwalk in the red
+  lair staging area.
+
+
+
+ALPHA 3
+* Added setup times. Normal rounds have 25 seconds, 
+  defense rounds have 40.
+* Fixed a few bugs.
+* Replaced most placeholder "red walls" with actual
+  doors and other more natural obstructions.
+* Added to the skybox.
+* Added fog transitions between some areas.
+* Closed off world map so players won't get stuck 
+  in it anymore.
+
+
+ALPHA 2
+* Switched flags to a new system to automatically
+  return them if dropped in player-death spots. This
+  should also fix bugs with flags spawning as the
+  wrong team.
+* Quite a lot of detailing to the outside. Many 
+  custom assets created.
+* Skybox added.
+
+
+EXTENDED CREDITS
+
+===Shmitz===
+Gameplay concept
+Map layout and construction
+Detailing (except as noted below)
+
+TEXTURES
+Cliffs
+Cave interior
+Ship metal
+Temple stone (from HL2)
+Temple blocks
+Temple stones (thin)
+Temple stones (single thin)
+Temple door
+Waterfall water
+Scrolling Globe
+Red Poster
+Blue Poster
+Bamboo walls
+Bamboo floors
+Grass roofing
+Out of Order overlay
+
+PROPS
+Ship
+Submarine
+Village Hut/Roof/Door
+Bamboo Poles
+Native Masks
+Temple Face
+Temple Doors
+Metal Struts
+Rocks (retexture of TF2)
+Stair Railing
+Mooring Cleats
+Communications Antenna and Bracket
+Intel Pedestal
+Torch (stone)
+Torch (wood)
+Toy Robot
+Ceiling Light Base
+Totem Pole
+Ship Bridge Window
+No Swimming Sign
+Attack/Defend Teams Sign
+
+===Buddikaman===
+TEXTURES
+Grass/dirt
+Vines
+Skybox
+
+PROPS
+Robot
+Robot Platform/Booth
+Bridges
+Palm Tree
+Fern
+Welding Laser
+Screw
+Shark
+
+===MangyCarface===
+DETAIL WORK
+Submarine Bay
+Submarine Bay spawnroom
+Loading/Delivery Conveyors (detail room)
+Village Generator room
+
+OTHER
+Player Clipping
+
+===Scoobings===
+Thematic concept
+
+DETAIL WORK
+Temple Outside (front)
+Temple spawnroom (lower)

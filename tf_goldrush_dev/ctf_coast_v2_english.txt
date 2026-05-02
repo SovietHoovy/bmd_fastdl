@@ -1,0 +1,12 @@
+Objective:
+Capture the center control point to gain access to the enemy flag.
+Return enemy flag to your base.
+
+Map by Arrow-
+Arrowaz@gmail.com
+
+Version 2-
+-Map was completely re-overhauled to improve performance
+-Fixed issues with flag being taken with enemy cage in place
+-Reduced distance between bases
+-Increased total number of heal and ammo packs

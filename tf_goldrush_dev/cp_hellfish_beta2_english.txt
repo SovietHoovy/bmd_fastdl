@@ -1,0 +1,11 @@
+Hellfish
+
+Attack/Defend
+
+Objective:
+RED team wins by defending thier Control Points. BLU team wins by capturing all Control Points before the time runs out.
+
+Other Notes:
+Control Points cannot be captured while they are locked. RED team cannot regain control of a Point once BLU has captured it.
+
+Made by Psyphil. Please mail any complaints or requests to fantasifille@hotmail.com

@@ -1,0 +1,12 @@
+Standard Capture the Flag (CTF) map. Assualt the enemy Fortress, steal thier intel and return it to your fortress, do this 3 times and you will win.
+Be warned the enemy will be trying to steal your intel, so defend it at all costs.
+
+Designed by : Vincent [ Flare/ASnogarD ]
+
+Thanks to :
+
+FPSBANANA (www.fpsbanana.com)
+Guys at UKCS.net for testing and support
+Server Admins for running this map
+and to you, the players playing this map.
+

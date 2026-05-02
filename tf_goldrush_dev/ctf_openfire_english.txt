@@ -1,0 +1,4 @@
+Map by MaddDogg_[VOV], wwww.skinned.net/forum, VOV message boards
+
+Objective:
+Score by capturing the intelligence from the opposing base.  To gain access to the intelligence you must first capture the opposing teams inteligence.  Flag security field will remain down until a team recaptures their security capture point. You cannot capture the opposing team's security capture point unless you have secured your own.
